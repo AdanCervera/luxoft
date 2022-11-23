@@ -1,0 +1,12 @@
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Util/bin/Debug/net6.0/TechnicalTest.Util.deps.json
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Util/bin/Debug/net6.0/TechnicalTest.Util.dll
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Util/bin/Debug/net6.0/TechnicalTest.Util.pdb
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Util/obj/Debug/net6.0/TechnicalTest.Util.csproj.AssemblyReference.cache
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Util/obj/Debug/net6.0/TechnicalTest.Util.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Util/obj/Debug/net6.0/TechnicalTest.Util.AssemblyInfoInputs.cache
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Util/obj/Debug/net6.0/TechnicalTest.Util.AssemblyInfo.cs
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Util/obj/Debug/net6.0/TechnicalTest.Util.csproj.CoreCompileInputs.cache
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Util/obj/Debug/net6.0/TechnicalTest.Util.dll
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Util/obj/Debug/net6.0/refint/TechnicalTest.Util.dll
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Util/obj/Debug/net6.0/TechnicalTest.Util.pdb
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Util/obj/Debug/net6.0/ref/TechnicalTest.Util.dll

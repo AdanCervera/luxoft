@@ -1,0 +1,38 @@
+{
+  "Country": "Mexico",
+  "Coins": [
+    {
+      "ValueCoin": 0.5
+    },
+    {
+      "ValueCoin": 1.0
+    },
+    {
+      "ValueCoin": 2.0
+    },
+    {
+      "ValueCoin": 5.0
+    },
+    {
+      "ValueCoin": 10.0
+    },
+    {
+      "ValueCoin": 20.0
+    },
+    {
+      "ValueCoin": 50.0
+    },
+    {
+      "ValueCoin": 100.0
+    },
+    {
+      "ValueCoin": 200.0
+    },
+    {
+      "ValueCoin": 500.0
+    },
+    {
+      "ValueCoin": 1000.0
+    }
+  ]
+}

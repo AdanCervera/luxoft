@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yHrOIoNc4fLGLaUHACl/lRURkgNZIl5grT99Qd8QLV7zAC0O2TNoo54yZL0BDmiQAqari5hmUY0zU8McpnniDw==",
+  "success": true,
+  "projectFilePath": "/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Util/TechnicalTest.Util.csproj",
+  "expectedPackageFiles": [
+    "/Users/adancervera/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

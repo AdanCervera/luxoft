@@ -1,0 +1,15 @@
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Business/bin/Debug/net6.0/TechnicalTest.Business.deps.json
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Business/bin/Debug/net6.0/TechnicalTest.Business.dll
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Business/bin/Debug/net6.0/TechnicalTest.Business.pdb
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Business/bin/Debug/net6.0/TechnicalTest.Models.dll
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Business/bin/Debug/net6.0/TechnicalTest.Models.pdb
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Business/obj/Debug/net6.0/TechnicalTest.Business.csproj.AssemblyReference.cache
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Business/obj/Debug/net6.0/TechnicalTest.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Business/obj/Debug/net6.0/TechnicalTest.Business.AssemblyInfoInputs.cache
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Business/obj/Debug/net6.0/TechnicalTest.Business.AssemblyInfo.cs
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Business/obj/Debug/net6.0/TechnicalTest.Business.csproj.CoreCompileInputs.cache
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Business/obj/Debug/net6.0/TechnicalTest.Business.csproj.CopyComplete
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Business/obj/Debug/net6.0/TechnicalTest.Business.dll
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Business/obj/Debug/net6.0/refint/TechnicalTest.Business.dll
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Business/obj/Debug/net6.0/TechnicalTest.Business.pdb
+/Users/adancervera/Projects/TechnicalTest/TechnicalTest.Business/obj/Debug/net6.0/ref/TechnicalTest.Business.dll

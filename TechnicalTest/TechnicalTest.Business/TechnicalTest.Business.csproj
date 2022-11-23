@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Abstraction\" />
+    <None Remove="Implementation\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Abstraction\" />
+    <Folder Include="Implementation\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TechnicalTest.Models\TechnicalTest.Models.csproj" />
+  </ItemGroup>
+</Project>
